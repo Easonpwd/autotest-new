@@ -1,0 +1,11 @@
+playwright~=1.21.0
+pytest-playwright
+allure-pytest
+loguru~=0.6.0
+pytest~=7.1.2
+pytest-xdist
+filelock~=3.7.1
+faker~=13.13.0
+opencv-python~=4.6.0.66
+numpy~=1.23.2
+image_similarity_measures
